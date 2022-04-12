@@ -1,34 +1,66 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Project Name - An optional tagline
 
-## Getting Started
+![Add Repo Social Image](https://user-images.githubusercontent.com/40722529/162960628-c62b8230-bc97-4ab1-bfc3-7cdc962d6e47.png)
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
+Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa rerum tempore ab dignissimos ratione, perferendis necessitatibus facilis nulla fugiat dolore corporis consectetur iusto iure, repudiandae nesciunt reprehenderit asperiores porro nemo?
+
+## 🚀 Demo
+
+[https://your-project-url.com/](https://your-project-url.com/)
+
+## Project Screenshots:
+
+![Add Project Screenshots](https://user-images.githubusercontent.com/40722529/162960641-1f5ffdbd-96d7-44a4-9be3-1b50b0f7370e.png)
+  
+
+## 🧐 Features
+
+Here're some of the project's best features:
+
+* Feature 1
+* Feature 2
+* Feature 3
+
+## 🛠️ Installation Steps:
+
+1. Clone the repo
+```
+git clone [url]
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. Install the dependencies to the local node_modules folder
+```
+npm i
+```
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+3. Run the app
+```
+npm run dev
+```
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## 🍰 Contribution Guidelines:
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+### Commit
 
-## Learn More
+**Template-** :feature_emoji: [FEATURE CATEGORY] commit message
 
-To learn more about Next.js, take a look at the following resources:
+:star: `:star: [FEAT]`  
+:unamused: `:unamused: [CHORES]`  
+:hammer_and_wrench: `:hammer_and_wrench: [UPDATE]`  
+:rainbow: `:rainbow: [STYLE]`  
+:memo: `:memo: [DOCS]`  
+:recycle: `:recycle: [REFACTOR]`
+  
+  
+## 💻 Built with
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Technologies used in the project:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+* Tech 1
+* Tech 2
+* Tech 3
 
-## Deploy on Vercel
+## 🛡️ License:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+This project is licensed under the [License Name]
