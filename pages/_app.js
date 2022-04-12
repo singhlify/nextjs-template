@@ -1,7 +1,14 @@
-import '../styles/globals.css'
+import Theme from "../styles/theme";
+import MainWrapper from "../components/MainWrapper/MainWrapper";
 
 function MyApp({ Component, pageProps }) {
-  return <Component {...pageProps} />
+	return (
+		<Theme>
+			<MainWrapper>
+				<Component {...pageProps} />
+			</MainWrapper>
+		</Theme>
+	);
 }
 
-export default MyApp
+export default MyApp;
